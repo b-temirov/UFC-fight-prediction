@@ -21,23 +21,12 @@ The dataset is split into training and testing sets. A Random Forest Classifier 
 
 To run this project, clone the repository and install the required dependencies:
 
-\`\`\`bash
 git clone https://github.com/b-temirov/UFC-fight-prediction.git
 cd UFC-fight-prediction
 pip install -r requirements.txt
-\`\`\`
 
 ## Usage
 
 To use the prediction system, ensure the dataset is available and run the Jupyter notebook or the Python script:
 
-\`\`\`bash
 jupyter notebook ufc_fight_prediction.ipynb
-\`\`\`
-# UFC-fight-prediction
-# UFC-fight-prediction
-# UFC-fight-prediction
-# UFC-fight-prediction
-# UFC-fight-prediction
-# UFC-fight-prediction
-# UFC-fight-prediction
